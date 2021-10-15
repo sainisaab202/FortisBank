@@ -1,0 +1,391 @@
+-----Welcome to FortisBank-----
+------Please identify Yourself------
+------Main Menu------
+-- Press [1] for Bank Manager Press[2] for Customer Press[3] for Exit --
+1
+Please enter your Employee Id 
+1111
+Please enter your Password 
+qwer
+ Welcome1111
+---Welcome Manager---
+
+
+[1] Add Customer [2] Remove Customer [3] Search Customer [4] Display All Customers [5] List All Transactions [6] Search Transaction [7] Logout
+3
+
+--Search--
+Enter customer number: 
+3336
+Customer [customerNumber=3336, name=shaun, pin=1234, email=dsdfsd@dfd.dfdf, contactNumber=1231231231, accounts=
+--List of Accounts--
+
+Account [accountNumber=1115, pin=1234, accType=checking, openDate=Thu Apr 01 12:36:09 EDT 2021, balance=2900.0, fees=2.0, transactions=
+---All the transactions ---
+
+-----Time of transaction : 18/04/2021 00:25:23
+Transaction Number: 2226
+Amount: 3000.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 13:55:05
+Transaction Number: 2227
+Amount: 200.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 15:43:45
+Transaction Number: 2228
+Amount: 200.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 15:48:17
+Transaction Number: 2229
+Amount: 500.0
+Type: withdraw
+]
+
+Account [accountNumber=1117, pin=1234, accType=savings, openDate=Thu Apr 22 14:27:30 EDT 2021, balance=0.0, fees=10.0, transactions=
+---All the transactions ---
+]
+
+Account [accountNumber=1118, pin=1234, accType=credit, openDate=Thu Apr 22 14:27:35 EDT 2021, balance=0.0, fees=10.0, transactions=
+---All the transactions ---
+]
+]
+
+
+[1] Add Customer [2] Remove Customer [3] Search Customer [4] Display All Customers [5] List All Transactions [6] Search Transaction [7] Logout
+4
+Customer [customerNumber=3333, name=saini, pin=1234, email=saini@dsd.ds, contactNumber=1231231231, accounts=
+--List of Accounts--
+
+Account [accountNumber=1112, pin=1234, accType=checking, openDate=Thu Apr 01 12:07:28 EDT 2021, balance=11800.0, fees=2.0, transactions=
+---All the transactions ---
+
+-----Time of transaction : 01/04/2021 12:08:44
+Transaction Number: 2222
+Amount: 12000.0
+Type: deposit
+
+-----Time of transaction : 01/04/2021 12:10:38
+Transaction Number: 2223
+Amount: 200.0
+Type: withdraw
+]
+]
+Customer [customerNumber=3334, name=sosa, pin=1234, email=sasdfd@dfd.dfdf, contactNumber=1231231231, accounts=
+--List of Accounts--
+
+Account [accountNumber=1113, pin=1234, accType=checking, openDate=Thu Apr 01 12:11:23 EDT 2021, balance=17694.0, fees=2.0, transactions=
+---All the transactions ---
+
+-----Time of transaction : 01/04/2021 12:12:00
+Transaction Number: 2224
+Amount: 20000.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 17:05:15
+Transaction Number: 2233
+Amount: 200.0
+Type: withdraw
+
+-----Time of transaction : 22/04/2021 17:15:45
+Transaction Number: 2234
+Amount: 200.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 17:48:07
+Transaction Number: 2235
+Amount: 1000.0
+Type: withdraw
+
+-----Time of transaction : 22/04/2021 17:52:25
+Transaction Number: 2236
+Amount: 20.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 17:55:11
+Transaction Number: 2237
+Amount: 440.0
+Type: withdraw
+
+-----Time of transaction : 22/04/2021 17:55:58
+Transaction Number: 2238
+Amount: 880.0
+Type: withdraw
+]
+]
+Customer [customerNumber=3335, name=Raza, pin=1234, email=asdf@df.dfd, contactNumber=1231231231, accounts=
+--List of Accounts--
+
+Account [accountNumber=1114, pin=1234, accType=checking, openDate=Thu Apr 01 12:22:41 EDT 2021, balance=12430.0, fees=2.0, transactions=
+---All the transactions ---
+
+-----Time of transaction : 01/04/2021 12:23:15
+Transaction Number: 2225
+Amount: 12000.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 16:52:11
+Transaction Number: 2230
+Amount: 400.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 16:52:54
+Transaction Number: 2231
+Amount: 120.0
+Type: withdraw
+
+-----Time of transaction : 22/04/2021 17:00:59
+Transaction Number: 2232
+Amount: 150.0
+Type: deposit
+]
+]
+Customer [customerNumber=3336, name=shaun, pin=1234, email=dsdfsd@dfd.dfdf, contactNumber=1231231231, accounts=
+--List of Accounts--
+
+Account [accountNumber=1115, pin=1234, accType=checking, openDate=Thu Apr 01 12:36:09 EDT 2021, balance=2900.0, fees=2.0, transactions=
+---All the transactions ---
+
+-----Time of transaction : 18/04/2021 00:25:23
+Transaction Number: 2226
+Amount: 3000.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 13:55:05
+Transaction Number: 2227
+Amount: 200.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 15:43:45
+Transaction Number: 2228
+Amount: 200.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 15:48:17
+Transaction Number: 2229
+Amount: 500.0
+Type: withdraw
+]
+
+Account [accountNumber=1117, pin=1234, accType=savings, openDate=Thu Apr 22 14:27:30 EDT 2021, balance=0.0, fees=10.0, transactions=
+---All the transactions ---
+]
+
+Account [accountNumber=1118, pin=1234, accType=credit, openDate=Thu Apr 22 14:27:35 EDT 2021, balance=0.0, fees=10.0, transactions=
+---All the transactions ---
+]
+]
+Customer [customerNumber=3337, name=ewrwe, pin=1111, email=werwe@fdgf.dfd, contactNumber=1231231231, accounts=
+--List of Accounts--
+
+Account [accountNumber=1116, pin=1111, accType=checking, openDate=Thu Apr 01 12:43:14 EDT 2021, balance=0.0, fees=2.0, transactions=
+---All the transactions ---
+]
+]
+
+
+[1] Add Customer [2] Remove Customer [3] Search Customer [4] Display All Customers [5] List All Transactions [6] Search Transaction [7] Logout
+5
+------All Transaction------
+Transaction [transactionNumber=2222, description=first transaction, transactionDate=2021-04-01, amount=12000.0, transactionType=deposit]
+Transaction [transactionNumber=2230, description=-----Time of transaction : 22/04/2021 16:52:11
+Transaction Number: 2230
+Amount: 400.0
+Type: deposit, transactionDate=2021-04-22, amount=400.0, transactionType=deposit]
+Transaction [transactionNumber=2226, description=-----Time of transaction : 18/04/2021 00:25:23
+Transaction Number: 2226
+Amount: 3000.0
+Type: deposit, transactionDate=2021-04-18, amount=3000.0, transactionType=deposit]
+Transaction [transactionNumber=2227, description=-----Time of transaction : 22/04/2021 13:55:05
+Transaction Number: 2227
+Amount: 200.0
+Type: deposit, transactionDate=2021-04-22, amount=200.0, transactionType=deposit]
+Transaction [transactionNumber=2228, description=-----Time of transaction : 22/04/2021 15:43:45
+Transaction Number: 2228
+Amount: 200.0
+Type: deposit, transactionDate=2021-04-22, amount=200.0, transactionType=deposit]
+Transaction [transactionNumber=2229, description=-----Time of transaction : 22/04/2021 15:48:17
+Transaction Number: 2229
+Amount: 500.0
+Type: withdraw, transactionDate=2021-04-22, amount=500.0, transactionType=withdraw]
+Transaction [transactionNumber=2231, description=-----Time of transaction : 22/04/2021 16:52:54
+Transaction Number: 2231
+Amount: 120.0
+Type: withdraw, transactionDate=2021-04-22, amount=120.0, transactionType=withdraw]
+Transaction [transactionNumber=2232, description=-----Time of transaction : 22/04/2021 17:00:59
+Transaction Number: 2232
+Amount: 150.0
+Type: deposit, transactionDate=2021-04-22, amount=150.0, transactionType=deposit]
+Transaction [transactionNumber=2234, description=-----Time of transaction : 22/04/2021 17:15:45
+Transaction Number: 2234
+Amount: 200.0
+Type: deposit, transactionDate=2021-04-22, amount=200.0, transactionType=deposit]
+Transaction [transactionNumber=2233, description=-----Time of transaction : 22/04/2021 17:05:15
+Transaction Number: 2233
+Amount: 200.0
+Type: withdraw, transactionDate=2021-04-22, amount=200.0, transactionType=withdraw]
+Transaction [transactionNumber=2235, description=-----Time of transaction : 22/04/2021 17:48:07
+Transaction Number: 2235
+Amount: 1000.0
+Type: withdraw, transactionDate=2021-04-22, amount=1000.0, transactionType=withdraw]
+Transaction [transactionNumber=2236, description=-----Time of transaction : 22/04/2021 17:52:25
+Transaction Number: 2236
+Amount: 20.0
+Type: deposit, transactionDate=2021-04-22, amount=20.0, transactionType=deposit]
+Transaction [transactionNumber=2237, description=-----Time of transaction : 22/04/2021 17:55:11
+Transaction Number: 2237
+Amount: 440.0
+Type: withdraw, transactionDate=2021-04-22, amount=440.0, transactionType=withdraw]
+Transaction [transactionNumber=2238, description=-----Time of transaction : 22/04/2021 17:55:58
+Transaction Number: 2238
+Amount: 880.0
+Type: withdraw, transactionDate=2021-04-22, amount=880.0, transactionType=withdraw]
+
+
+[1] Add Customer [2] Remove Customer [3] Search Customer [4] Display All Customers [5] List All Transactions [6] Search Transaction [7] Logout
+7
+---Logging off---
+------Main Menu------
+-- Press [1] for Bank Manager Press[2] for Customer Press[3] for Exit --
+2
+Please enter your customerNumber 
+3334
+Please enter your Password 
+1234
+---Welcome sosa---
+[1] Display information [2] Update information [3] Select an Account(deposit/withdraw) [4] Open New Account [5] Logout
+1
+Customer [customerNumber=3334, name=sosa, pin=1234, email=sasdfd@dfd.dfdf, contactNumber=1231231231, accounts=
+--List of Accounts--
+
+Account [accountNumber=1113, pin=1234, accType=checking, openDate=Thu Apr 01 12:11:23 EDT 2021, balance=17694.0, fees=2.0, transactions=
+---All the transactions ---
+
+-----Time of transaction : 01/04/2021 12:12:00
+Transaction Number: 2224
+Amount: 20000.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 17:05:15
+Transaction Number: 2233
+Amount: 200.0
+Type: withdraw
+
+-----Time of transaction : 22/04/2021 17:15:45
+Transaction Number: 2234
+Amount: 200.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 17:48:07
+Transaction Number: 2235
+Amount: 1000.0
+Type: withdraw
+
+-----Time of transaction : 22/04/2021 17:52:25
+Transaction Number: 2236
+Amount: 20.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 17:55:11
+Transaction Number: 2237
+Amount: 440.0
+Type: withdraw
+
+-----Time of transaction : 22/04/2021 17:55:58
+Transaction Number: 2238
+Amount: 880.0
+Type: withdraw
+]
+]
+[1] Display information [2] Update information [3] Select an Account(deposit/withdraw) [4] Open New Account [5] Logout
+3
+Select an account number to perform a transaction [0] for Exit: 
+1. 1113 checking
+
+1113
+Choose [1] Withdraw [2] Deposit [0] Exit
+2
+--Deposit--
+Enter the amount to deposit, [0] to exit
+500
+Deposit succeed!!
+Choose [1] Withdraw [2] Deposit [0] Exit
+0
+Going Back to previous Menu
+Select an account number to perform a transaction [0] for Exit: 
+1. 1113 checking
+
+0
+Going back to the menu!!
+[1] Display information [2] Update information [3] Select an Account(deposit/withdraw) [4] Open New Account [5] Logout
+4
+--Open New Account--
+Select the type of account [1] Checking, [2] Savings, [3] Credit, [0] Exit
+3
+Account Successfully created
+Select the type of account [1] Checking, [2] Savings, [3] Credit, [0] Exit
+0
+Back to previous Menu
+[1] Display information [2] Update information [3] Select an Account(deposit/withdraw) [4] Open New Account [5] Logout
+1
+Customer [customerNumber=3334, name=sosa, pin=1234, email=sasdfd@dfd.dfdf, contactNumber=1231231231, accounts=
+--List of Accounts--
+
+Account [accountNumber=1113, pin=1234, accType=checking, openDate=Thu Apr 01 12:11:23 EDT 2021, balance=18192.0, fees=2.0, transactions=
+---All the transactions ---
+
+-----Time of transaction : 01/04/2021 12:12:00
+Transaction Number: 2224
+Amount: 20000.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 17:05:15
+Transaction Number: 2233
+Amount: 200.0
+Type: withdraw
+
+-----Time of transaction : 22/04/2021 17:15:45
+Transaction Number: 2234
+Amount: 200.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 17:48:07
+Transaction Number: 2235
+Amount: 1000.0
+Type: withdraw
+
+-----Time of transaction : 22/04/2021 17:52:25
+Transaction Number: 2236
+Amount: 20.0
+Type: deposit
+
+-----Time of transaction : 22/04/2021 17:55:11
+Transaction Number: 2237
+Amount: 440.0
+Type: withdraw
+
+-----Time of transaction : 22/04/2021 17:55:58
+Transaction Number: 2238
+Amount: 880.0
+Type: withdraw
+
+-----Time of transaction : 23/04/2021 18:31:20
+Transaction Number: 2239
+Amount: 500.0
+Type: deposit
+]
+
+Account [accountNumber=1119, pin=1234, accType=credit, openDate=Fri Apr 23 18:31:38 EDT 2021, balance=0.0, fees=10.0, transactions=
+---All the transactions ---
+]
+]
+[1] Display information [2] Update information [3] Select an Account(deposit/withdraw) [4] Open New Account [5] Logout
+5
+--Logging off--
+------Main Menu------
+-- Press [1] for Bank Manager Press[2] for Customer Press[3] for Exit --
+3
+Thank you for using our services
+Project By: Raza Khan, Diego Sosa, Gurpreet Saini

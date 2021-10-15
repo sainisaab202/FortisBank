@@ -1,0 +1,25 @@
+connect sys as sysdba
+
+>create user manager identified by manager;
+
+>grant all privileges to manager;
+
+>connect manager/manager;
+
+>create table transaction(transactionNumber number(4) primary key not null, description varchar2(500), transactionDate date, amount decimal(10,2), transactionType varchar2(25), accountNumber number(4));
+
+>insert into transaction values(2222, 'first transaction', '2021-04-01', 12000, 'deposit', 1112);
+
+
+---
+SQL> select * from transaction;
+
+TRANSACTIONNUMBER
+-----------------
+DESCRIPTION
+--------------------------------------------------------------------------------
+TRANSACT     AMOUNT TRANSACTIONTYPE           ACCOUNTNUMBER
+-------- ---------- ------------------------- -------------
+             2222
+first transaction
+21-04-01      12000 deposit                            1112
